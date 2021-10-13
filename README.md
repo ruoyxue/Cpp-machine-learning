@@ -1,4 +1,4 @@
-# C++ machine learning start from zero <br/>
+# C++ machine learning <br/>
 # 1 Linear Regression : <br/>
 ## Use documents : LinearRegression.hpp, VectorOperations.hpp, Dataset.hpp, test.cpp <br/>
 ## Record : <br/>
