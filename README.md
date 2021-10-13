@@ -8,6 +8,7 @@ In order to compare the fitting function with the target, we don't use feature s
 
 # 2 Perceptron : <br/>
 ## Use documents : Perceptron.hpp, VectorOperations.hpp, Dataset.hpp, test.cpp <br/>
-## Record : <br/>
+## Record : 
+Use original form of perceptron <br/>
 ### Finished on : 2021.10.13 <br/>
 ### Latest updated: 2021.10.13 <br/>
